@@ -31,7 +31,7 @@ export default function Brands () {
 				<div className="mt-16 flex justify-center">
 					<p className="relative rounded-full px-4 py-1.5 text-sm leading-6 text-gray-600 ring-1 ring-inset ring-gray-900/10 hover:ring-gray-900/20">
 						<span className="hidden md:inline">
-							Proxyware.io is the trusted proxy provider for 97% of Multilogin or Jarvee users.
+							HypeSIM.io is the trusted global provider of travel eSIMs for thousands of users worldwide.
 						</span>
 						<Link href="/#reviews" className="font-semibold text-primary">
 							<span className="absolute inset-0" aria-hidden="true" /> Read our case study{" "}
