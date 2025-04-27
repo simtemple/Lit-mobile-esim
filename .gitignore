@@ -1,0 +1,16 @@
+.vs
+.vscode
+.idea
+
+.env
+
+.yarn
+.next
+
+.DS_Store
+
+node_modules
+pnpm-lock.yaml
+
+**/@deprecated
+src/@deprecated
