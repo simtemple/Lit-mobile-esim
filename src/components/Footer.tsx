@@ -50,16 +50,6 @@ export default function Footer () {
 					</div>
 					<div className={"mt-16 grid grid-cols-3 gap-8 xl:col-span-2 xl:mt-0"}>
 						<div>
-							{/*	<h3 className={"text-base font-semibold uppercase leading-6"}>Products</h3>*/}
-							{/*	<ul role={"list"} className={"mt-6 space-y-4"}>*/}
-							{/*		{navigation.solutions.map((item) => (*/}
-							{/*			<li key={item.name}>*/}
-							{/*				<a href={item.href} className={"text-base leading-6 hover:text-white"}>*/}
-							{/*					{item.name}*/}
-							{/*				</a>*/}
-							{/*			</li>*/}
-							{/*		))}*/}
-							{/*	</ul>*/}
 						</div>
 						<div>
 							<h3 className={"text-base font-semibold uppercase leading-6"}>Pages</h3>
@@ -88,8 +78,8 @@ export default function Footer () {
 					</div>
 				</div>
 				<Flex alignItems={"center"} flexDirection={"col"} className={"sm:flex-row gap-y-5 py-7 border-t border-white/10"}>
-					<p className={"text-base leading-5"}>Copyright &copy; {new Date().getFullYear()} HypeSIM. All rights reserved.</p>
-					Crafted with 💰 by XXI, LLC
+					<p className={"text-base text-center sm:text-left leading-5"}>Copyright &copy; {new Date().getFullYear()} HypeSIM. All rights reserved.</p>
+					Crafted with 😎 by XXI, LLC
 				</Flex>
 			</Container>
 		</footer>
