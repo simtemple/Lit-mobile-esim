@@ -66,7 +66,7 @@ const faqs = [
 
 export default function Faq () {
 	return (
-		<section id={"faq"} className={"pb-8 sm:pb-24 sm:pt-12 lg:pt-20 lg:pb-28"}>
+		<section id={"faq"} className={"py-12 sm:pb-24 sm:pt-12 lg:pt-20 lg:pb-28"}>
 			<Container>
 				<h2 className="text-2xl font-bold leading-10 tracking-tight text-dark">Frequently asked questions</h2>
 				<dl className="mt-10 space-y-8 divide-y divide-gray-900/10">
