@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "next/link";
 
 export default function Brands () {
 	return (
@@ -33,10 +32,6 @@ export default function Brands () {
 						<span className="hidden md:inline">
 							HypeSIM.io is the trusted global provider of travel eSIMs for thousands of users worldwide.
 						</span>
-						<Link href="/#reviews" className="font-semibold text-primary">
-							<span className="absolute inset-0" aria-hidden="true" /> Read our case study{" "}
-							<span aria-hidden="true">&rarr;</span>
-						</Link>
 					</p>
 				</div>
 			</div>
