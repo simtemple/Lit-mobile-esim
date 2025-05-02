@@ -5,6 +5,7 @@ import Header from "@/components/Header";
 import { Flex } from "@tremor/react";
 import { Toaster } from "sonner";
 import Footer from "@/components/Footer";
+import ChatBox from "./ChatBox";
 
 import "./globals.scss";
 
@@ -56,6 +57,7 @@ export default function RootLayout ({ children }: Readonly<{ children: React.Rea
 					<Toaster position={"bottom-right"} />
 					<Footer/>
 				</Flex>
+				<ChatBox />
 			</body>
 		</html>
 	);
