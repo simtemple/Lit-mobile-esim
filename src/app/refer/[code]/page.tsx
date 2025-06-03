@@ -4,6 +4,7 @@
 // 	}
 // };
 
-export default function Page ({ params }: { params: { code: string } }) {
-	return <h1>Referral code: {params.code}</h1>
+// { params }: { params: { code: string } }
+export default function Page () {
+	return <h1>Thank you</h1>
 }
