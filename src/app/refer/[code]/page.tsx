@@ -1,3 +1,5 @@
+import { Metadata } from "next";
+
 export const metadata: Metadata = {
 	other: {
 		"apple-itunes-app": "app-argument=https://hypesim.app/refer/[code]"
