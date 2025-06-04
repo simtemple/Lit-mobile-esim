@@ -34,6 +34,9 @@ export const metadata: Metadata = {
 		card: "summary_large_image",
 		title: "HypeSIM - Instant eSIM for Global Travelers",
 		images: ["/images/preview.png"]
+	},
+	other: {
+		"apple-itunes-app": "app-id=id6746370915"
 	}
 };
 
