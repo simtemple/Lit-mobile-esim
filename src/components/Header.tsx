@@ -18,7 +18,7 @@ const navigation = [
 		excludeMobile: true
 	},
 	{
-		title: "Our Features",
+		title: "Buy eSIM Plans",
 		href: "#features",
 		scroll: true,
 		description: "Discover all our features in detail."
