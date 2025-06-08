@@ -78,8 +78,8 @@ export default function Footer () {
 					</div>
 				</div>
 				<Flex alignItems={"center"} flexDirection={"col"} className={"sm:flex-row gap-y-5 py-7 border-t border-white/10"}>
-					<p className={"text-base text-center sm:text-left leading-5"}>Copyright &copy; {new Date().getFullYear()} HypeSIM. All rights reserved.</p>
-					Crafted with 😎 by XXI, LLC
+					<p className={"text-base text-center sm:text-left leading-5"}>Copyright &copy; {new Date().getFullYear()} Lit Mobile. All rights reserved.</p>
+					Power by Lit Telecom Ltd, United Kingdom
 				</Flex>
 			</Container>
 		</footer>
