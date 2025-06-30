@@ -43,7 +43,7 @@ export default function Hero () {
 						</h1>
 						<div className="mt-6 text-lg space-y-3 leading-8 text-gray-600">
 							<p>Experience <span className={"font-semibold text-tremor-brand"}>instant</span> and <span className={"font-semibold text-tremor-brand"}>reliable</span> mobile data across the globe — perfect for travelers, remote workers, and digital explorers.</p>
-							<p>With HypeSIM, stay connected <span className={"font-semibold text-tremor-brand"}>anytime</span>, <span className={"font-semibold text-tremor-brand"}>anywhere</span>, with <span className={"font-semibold text-tremor-brand"}>high-speed</span>, secure and flexible eSIM plans tailored to your needs.</p>
+							<p>With Litmobile, stay connected <span className={"font-semibold text-tremor-brand"}>anytime</span>, <span className={"font-semibold text-tremor-brand"}>anywhere</span>, with <span className={"font-semibold text-tremor-brand"}>high-speed</span>, secure and flexible eSIM plans tailored to your needs.</p>
 						</div>
 						<Flex justifyContent={"start"} alignItems={"stretch"} className={"mt-10 gap-6"}>
 							<AppStoreButton className={"h-[50px]"} />
