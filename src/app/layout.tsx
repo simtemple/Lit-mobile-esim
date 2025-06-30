@@ -10,18 +10,18 @@ import "./globals.scss";
 
 export const metadata: Metadata = {
 	title: {
-		template: "HypeSIM | %s",
+		template: "Litmobile | %s",
 		default: "Instant Mobile Access Across the Globe.",
 	},
 	description: "Instant global eSIM plans for travelers and digital nomads. Affordable, reliable, and available directly through our iOS app.",
-	keywords: ["eSIM", "global eSIM", "travel eSIM", "instant eSIM", "HypeSIM", "iOS eSIM", "affordable data plans"],
-	authors: [{ name: "HypeSIM Team", url: "https://hypesim.io" }],
-	creator: "HypeSIM",
+	keywords: ["eSIM", "global eSIM", "travel eSIM", "instant eSIM", "LitmobileSIM", "iOS eSIM", "affordable data plans"],
+	authors: [{ name: "Litmobile Team", url: "https://litmobile.net" }],
+	creator: "Litmobile",
 	openGraph: {
-		title: "HypeSIM | Instant Mobile Access Across the Globe.",
-		description: "Stay connected worldwide with HypeSIM. Affordable and reliable eSIM plans, activated instantly via our app.",
-		url: "https://hypesim.io",
-		siteName: "HypeSIM",
+		title: "Litmobile | Instant Mobile Access Across the Globe.",
+		description: "Stay connected worldwide with Litmobile. Affordable and reliable eSIM plans, activated instantly via our app.",
+		url: "https://litmobile.net",
+		siteName: "Litmobile",
 		images: [
 			{
 				url: "/images/og.png"
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: "HypeSIM - Instant eSIM for Global Travelers",
+		title: "Litmobile - Instant eSIM for Global Travelers",
 		images: ["/images/preview.png"]
 	},
 	other: {
