@@ -1,12 +1,12 @@
 {
   "webcredentials": {
-    "apps": [ "H9HJ9VZ7CR.business.xxi.hypesim" ]
+    "apps": [ "H9HJ9VZ7CR.business.xxi.litmobile" ]
   },
   "applinks": {
     "apps": [],
     "details": [
       {
-        "appID": "H9HJ9VZ7CR.business.xxi.hypesim",
+        "appID": "H9HJ9VZ7CR.business.xxi.litmobile",
         "paths": [ "/refer/*" ]
       }
     ]
