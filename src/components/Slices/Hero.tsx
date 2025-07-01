@@ -22,7 +22,7 @@ export default function Hero () {
 					<div className={"mx-auto max-w-2xl lg:mx-0 lg:max-w-xl lg:flex-shrink-0"}>
 						<div className={"mt-24-sm:mt-32-lg:mt-16"}>
 							<Link href="/about" className={"inline-flex space-x-6"}>
-								<Badge color={"yellow"} className={"bg-tremor-brand/100 text-tremor-brand-inverted rounded-full ring-0 py-1"}>
+								<Badge color={"#C7FF54"} className={"bg-tremor-brand/100 text-tremor-brand-inverted rounded-full ring-0 py-1"}>
 									Get Started
 								</Badge>
 								<span className="inline-flex items-center space-x-2 text-sm font-medium leading-6 text-gray-600">
